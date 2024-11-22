@@ -1428,7 +1428,10 @@
       },
       "Sale.Domain/1.0.0": {
         "runtime": {
-          "Sale.Domain.dll": {}
+          "Sale.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
