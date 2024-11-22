@@ -25,3 +25,17 @@ C:\Users\crist\Desktop\ITLA\Cuatrimestres\2023-C3\Programación 2\Trabajo final\
 C:\Users\crist\Desktop\ITLA\Cuatrimestres\2023-C3\Programación 2\Trabajo final\Sale\Sale.Infrastructure\obj\Debug\netstandard2.1\Sale.Infrastructure.csproj.CopyComplete
 C:\Users\crist\Desktop\ITLA\Cuatrimestres\2023-C3\Programación 2\Trabajo final\Sale\Sale.Infrastructure\obj\Debug\netstandard2.1\Sale.Infrastructure.dll
 C:\Users\crist\Desktop\ITLA\Cuatrimestres\2023-C3\Programación 2\Trabajo final\Sale\Sale.Infrastructure\obj\Debug\netstandard2.1\Sale.Infrastructure.pdb
+C:\Users\crist\Desktop\2024-C3\Sale\Sale.Infrastructure\bin\Debug\netstandard2.1\Sale.Infrastructure.deps.json
+C:\Users\crist\Desktop\2024-C3\Sale\Sale.Infrastructure\bin\Debug\netstandard2.1\Sale.Infrastructure.dll
+C:\Users\crist\Desktop\2024-C3\Sale\Sale.Infrastructure\bin\Debug\netstandard2.1\Sale.Infrastructure.pdb
+C:\Users\crist\Desktop\2024-C3\Sale\Sale.Infrastructure\bin\Debug\netstandard2.1\Sale.Domain.dll
+C:\Users\crist\Desktop\2024-C3\Sale\Sale.Infrastructure\bin\Debug\netstandard2.1\Sale.Domain.pdb
+C:\Users\crist\Desktop\2024-C3\Sale\Sale.Infrastructure\obj\Debug\netstandard2.1\Sale.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\2024-C3\Sale\Sale.Infrastructure\obj\Debug\netstandard2.1\Sale.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\2024-C3\Sale\Sale.Infrastructure\obj\Debug\netstandard2.1\Sale.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\2024-C3\Sale\Sale.Infrastructure\obj\Debug\netstandard2.1\Sale.Infrastructure.AssemblyInfo.cs
+C:\Users\crist\Desktop\2024-C3\Sale\Sale.Infrastructure\obj\Debug\netstandard2.1\Sale.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\2024-C3\Sale\Sale.Infrastructure\obj\Debug\netstandard2.1\Sale.Infrastructure.sourcelink.json
+C:\Users\crist\Desktop\2024-C3\Sale\Sale.Infrastructure\obj\Debug\netstandard2.1\Sale.Inf.F9DADBDB.Up2Date
+C:\Users\crist\Desktop\2024-C3\Sale\Sale.Infrastructure\obj\Debug\netstandard2.1\Sale.Infrastructure.dll
+C:\Users\crist\Desktop\2024-C3\Sale\Sale.Infrastructure\obj\Debug\netstandard2.1\Sale.Infrastructure.pdb
