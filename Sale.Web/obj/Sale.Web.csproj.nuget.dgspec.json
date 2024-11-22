@@ -1,0 +1,395 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Web\\Sale.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Application\\Sale.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Application\\Sale.Application.csproj",
+        "projectName": "Sale.Application",
+        "projectPath": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Application\\Sale.Application.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Infrastructure\\Sale.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Infrastructure\\Sale.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Domain\\Sale.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Domain\\Sale.Domain.csproj",
+        "projectName": "Sale.Domain",
+        "projectPath": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Domain\\Sale.Domain.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Infrastructure\\Sale.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Infrastructure\\Sale.Infrastructure.csproj",
+        "projectName": "Sale.Infrastructure",
+        "projectPath": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Infrastructure\\Sale.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Domain\\Sale.Domain.csproj": {
+                "projectPath": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Domain\\Sale.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.loc\\Sale.loc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.loc\\Sale.loc.csproj",
+        "projectName": "Sale.loc",
+        "projectPath": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.loc\\Sale.loc.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.loc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Application\\Sale.Application.csproj": {
+                "projectPath": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Application\\Sale.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Web\\Sale.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Web\\Sale.Web.csproj",
+        "projectName": "Sale.Web",
+        "projectPath": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Web\\Sale.Web.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Application\\Sale.Application.csproj": {
+                "projectPath": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.Application\\Sale.Application.csproj"
+              },
+              "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.loc\\Sale.loc.csproj": {
+                "projectPath": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programación 2\\Trabajo final\\Sale\\Sale.loc\\Sale.loc.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Sale.Application.Dtos.Usuario.UsuarioDtoGetAll>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Usuarios</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @if (Model != null && Model.Any() && Model.First().Nombre != null)
+                {
+                    @Html.DisplayNameFor(model => model.First().Nombre)
+                }
+                else
+                {
+                    @Html.DisplayName("Nombre")
+                }
+            </th>
+            <th>
+                @if (Model != null && Model.Any() && Model.First().Correo != null)
+                {
+                    @Html.DisplayNameFor(model => model.First().Correo)
+                }
+                else
+                {
+                    @Html.DisplayName("Correo")
+                }
+            </th>
+            <th>
+                @if (Model != null && Model.Any() && Model.First().Telefono != null)
+                {
+                    @Html.DisplayNameFor(model => model.First().Telefono)
+                }
+                else
+                {
+                    @Html.DisplayName("Telefono")
+                }
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @if (item.Nombre != null)
+                    {
+                        @Html.DisplayFor(modelItem => item.Nombre)
+                    }
+                    else
+                    {
+                        @Html.Raw("N/A")
+                    }
+                </td>
+                <td>
+                    @if (item.Correo != null)
+                    {
+                        @Html.DisplayFor(modelItem => item.Correo)
+                    }
+                    else
+                    {
+                        @Html.Raw("N/A")
+                    }
+                </td>
+                <td>
+                    @if (item.Telefono != null)
+                    {
+                        @Html.DisplayFor(modelItem => item.Telefono)
+                    }
+                    else
+                    {
+                        @Html.Raw("N/A")
+                    }
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.UsuarioId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.UsuarioId }) |
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
