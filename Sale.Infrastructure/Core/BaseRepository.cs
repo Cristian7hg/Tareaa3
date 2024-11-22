@@ -54,6 +54,8 @@ namespace Sale.Infrastructure.Core
         {
             this.entities.Update(entity);
         }
+//Hola
+//Pagos
 
         
 
