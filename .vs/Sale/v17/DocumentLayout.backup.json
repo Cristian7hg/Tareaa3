@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programaci\u00F3n 2\\Trabajo final\\Sale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{762537F6-05AF-4FA7-92DE-C5B1E8F7755F}|Sale.Infrastructure\\Sale.Infrastructure.csproj|c:\\users\\crist\\desktop\\itla\\cuatrimestres\\2023-c3\\programaci\u00F3n 2\\trabajo final\\sale\\sale.infrastructure\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762537F6-05AF-4FA7-92DE-C5B1E8F7755F}|Sale.Infrastructure\\Sale.Infrastructure.csproj|solutionrelative:sale.infrastructure\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1836FC25-3626-4E14-BC10-7D591F329ADC}|Sale.Domain\\Sale.Domain.csproj|c:\\users\\crist\\desktop\\itla\\cuatrimestres\\2023-c3\\programaci\u00F3n 2\\trabajo final\\sale\\sale.domain\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1836FC25-3626-4E14-BC10-7D591F329ADC}|Sale.Domain\\Sale.Domain.csproj|solutionrelative:sale.domain\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1836FC25-3626-4E14-BC10-7D591F329ADC}|Sale.Domain\\Sale.Domain.csproj|c:\\users\\crist\\desktop\\itla\\cuatrimestres\\2023-c3\\programaci\u00F3n 2\\trabajo final\\sale\\sale.domain\\repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1836FC25-3626-4E14-BC10-7D591F329ADC}|Sale.Domain\\Sale.Domain.csproj|solutionrelative:sale.domain\\repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762537F6-05AF-4FA7-92DE-C5B1E8F7755F}|Sale.Infrastructure\\Sale.Infrastructure.csproj|c:\\users\\crist\\desktop\\itla\\cuatrimestres\\2023-c3\\programaci\u00F3n 2\\trabajo final\\sale\\sale.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762537F6-05AF-4FA7-92DE-C5B1E8F7755F}|Sale.Infrastructure\\Sale.Infrastructure.csproj|solutionrelative:sale.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762537F6-05AF-4FA7-92DE-C5B1E8F7755F}|Sale.Infrastructure\\Sale.Infrastructure.csproj|c:\\users\\crist\\desktop\\itla\\cuatrimestres\\2023-c3\\programaci\u00F3n 2\\trabajo final\\sale\\sale.infrastructure\\context\\salecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762537F6-05AF-4FA7-92DE-C5B1E8F7755F}|Sale.Infrastructure\\Sale.Infrastructure.csproj|solutionrelative:sale.infrastructure\\context\\salecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1836FC25-3626-4E14-BC10-7D591F329ADC}|Sale.Domain\\Sale.Domain.csproj|c:\\users\\crist\\desktop\\itla\\cuatrimestres\\2023-c3\\programaci\u00F3n 2\\trabajo final\\sale\\sale.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1836FC25-3626-4E14-BC10-7D591F329ADC}|Sale.Domain\\Sale.Domain.csproj|solutionrelative:sale.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1836FC25-3626-4E14-BC10-7D591F329ADC}|Sale.Domain\\Sale.Domain.csproj|c:\\users\\crist\\desktop\\itla\\cuatrimestres\\2023-c3\\programaci\u00F3n 2\\trabajo final\\sale\\sale.domain\\sale.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1836FC25-3626-4E14-BC10-7D591F329ADC}|Sale.Domain\\Sale.Domain.csproj|solutionrelative:sale.domain\\sale.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programaci\u00F3n 2\\Trabajo final\\Sale\\Sale.Infrastructure\\Core\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Sale.Infrastructure\\Core\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programaci\u00F3n 2\\Trabajo final\\Sale\\Sale.Infrastructure\\Core\\BaseRepository.cs",
+              "RelativeToolTip": "Sale.Infrastructure\\Core\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:21:52.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programaci\u00F3n 2\\Trabajo final\\Sale\\Sale.Domain\\Repository\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Sale.Domain\\Repository\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programaci\u00F3n 2\\Trabajo final\\Sale\\Sale.Domain\\Repository\\IBaseRepository.cs",
+              "RelativeToolTip": "Sale.Domain\\Repository\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:21:47.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programaci\u00F3n 2\\Trabajo final\\Sale\\Sale.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Sale.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programaci\u00F3n 2\\Trabajo final\\Sale\\Sale.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Sale.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:47:23.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programaci\u00F3n 2\\Trabajo final\\Sale\\Sale.Domain\\Repository\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Sale.Domain\\Repository\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programaci\u00F3n 2\\Trabajo final\\Sale\\Sale.Domain\\Repository\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Sale.Domain\\Repository\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:21:49.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleContext.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programaci\u00F3n 2\\Trabajo final\\Sale\\Sale.Infrastructure\\Context\\SaleContext.cs",
+              "RelativeDocumentMoniker": "Sale.Infrastructure\\Context\\SaleContext.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programaci\u00F3n 2\\Trabajo final\\Sale\\Sale.Infrastructure\\Context\\SaleContext.cs",
+              "RelativeToolTip": "Sale.Infrastructure\\Context\\SaleContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:21:51.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programaci\u00F3n 2\\Trabajo final\\Sale\\Sale.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Sale.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programaci\u00F3n 2\\Trabajo final\\Sale\\Sale.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Sale.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:05:53.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sale.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programaci\u00F3n 2\\Trabajo final\\Sale\\Sale.Domain\\Sale.Domain.csproj",
+              "RelativeDocumentMoniker": "Sale.Domain\\Sale.Domain.csproj",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\ITLA\\Cuatrimestres\\2023-C3\\Programaci\u00F3n 2\\Trabajo final\\Sale\\Sale.Domain\\Sale.Domain.csproj",
+              "RelativeToolTip": "Sale.Domain\\Sale.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T02:37:39.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
